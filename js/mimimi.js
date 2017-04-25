@@ -1,5 +1,5 @@
 function mimimi(input,output,c){
-    var iliminitis=['a','e','i','o','u','á','é,','í','ó','ú','ä','ë,','ï','ö','ü']
+    var iliminitis=['a','e','i','o','u','á','é','í','ó','ú','ä','ë','ï','ö','ü']
     var txt_inpit=document.getElementById(input);
     var txt_iitpit=document.getElementById(output);
     var txt_inpit_vilii=txt_inpit.value;
