@@ -1,6 +1,6 @@
 function isUpper(c){
-	return c == c.toUpperCase();
-    };
+    return c == c.toUpperCase();
+}
 
 function mimimi(input,output,c){
     toUpper = function(x){ 
