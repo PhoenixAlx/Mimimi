@@ -1,11 +1,19 @@
 function mimimi(input,output,c){
-    var iliminitis=['a','e','i','o','u','á','é','í','ó','ú','ä','ë','ï','ö','ü']
+    toUpper = function(x){ 
+	return x.toUpperCase();
+    };
+    isUpper = function(x){
+	return x == x.toUpperCase();
+    };
+    var ilimintis=['a','e','i','o','u','á','é','í','ó','ú','ä','ë','ï','ö','ü']
+    ilimintis=ilimintis.concat(ilimintis.map(toUpper))
     var txt_inpit=document.getElementById(input);
     var txt_iitpit=document.getElementById(output);
     var txt_inpit_vilii=txt_inpit.value;
-    for (var i=0;i<iliminitis.length;i++){
-        if (txt_inpit_vilii.indexOf(iliminitis[i])>-1){
-            txt_inpit_vilii= txt_inpit_vilii.replace(new RegExp("\\" + iliminitis[i], 'gi'),c);
+    for (var i=0;i<ilimintis.length;i++){
+        if (txt_inpit_vilii.indexOf(ilimintis[i])>-1){
+	    
+            txt_inpit_vilii= txt_inpit_vilii.replace(new RegExp("\\" + ilimintis[i], 'g'), ilimintis[i].isUpper() ? c.toUpperCase() : c);
         }
     }
     txt_iitpit.value=txt_inpit_vilii;
