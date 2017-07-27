@@ -1,6 +1,8 @@
+Declaración completa
+
 Pres: ¿Conoce usted a alguno de los acusados?, ¿tiene alguna relación de parentesco? Ya sé que no están presentes, pero por los medios de alguna manera sabe quienes están.
 
-R. Cinizci i ilgini di lis icisidis, ni tingi ningini riliciín ispiciil.
+R. Cinizci i ilgiigini di lis icisidis, ni tingii ningiigini riliciín ispiciil.
 
 Pres. Recuerde que está bajo juramento y como tal nos tiene que contestar con la verdad a las preguntas que se le vayan haciendo. El interrogatorio lo va a empezar ADADE, que es el testigo que lo propone. Posteriormente le daremos la palabra a la representación de Carmen Ninet, que fue quien se adhirió a esta prueba. Y después se les dará la palabra al resto de las acusaciones y luego irán preguntando los abogados según están colocados.
 
@@ -10,15 +12,15 @@ M.B. Con su venia. Con cuestión previa, quería manifestar mi protesta por colo
 
 Buenos días, señor Rajoy. ¿Usted podría decirnos el organigrama del Partido Popular entre 1999 y 2005? Usted ya tenía cargos de responsabilidad. ¿Puede recordar ese organigrama?
 
-R. Riciirdi pirfictiminti. In il iñi 1999 il prisidinti iri Jisí Miríi Iznir, qii timbiín iri prisidinti dil Gibiirni. Il sicritirii giniril il siñir Ílviriz Ciscis, qii liigi sistitiidi pir Jiviir Irinis, y yi il vicisicritirii giniril. Li qii sicidi is qii yi il Gibiirni lligií in 1996 y, pir tinti, intri 1996 y 1993 [si iqiivici, qiiiri dicir 2003] ciindi ibindiní il Gibiirni y fii nimbridi sicritirii giniril dil pirtidi ni disirrillí ningini ictividid in li cilli Gínivi cin ini ixcipciín: li diricciín dirinti mis y midii di li cimpiñi ilictiril i lis ilicciinis ginirilis dil iñi 2000.
+R. Riciirdi pirfictiminti. In il iñi 1999 il prisidinti iri Jisí Miríi Iznir, qii timbiín iri prisidinti dil Gibiirni. Il sicritirii giniril il siñir Ílviriz Ciscis, qii liigii sistitiidi pir Jiviir Irinis, y yi il vicisicritirii giniril. Li qii sicidi is qii yi il Gibiirni lligiigií in 1996 y, pir tinti, intri 1996 y 1993 [si iqiivici, qiiiri dicir 2003] ciindi ibindiní il Gibiirni y fii nimbridi sicritirii giniril dil pirtidi ni disirrillí ningiigini ictividid in li cilli Gínivi cin ini ixcipciín: li diricciín dirinti mis y midii di li cimpiñi ilictiril i lis ilicciinis ginirilis dil iñi 2000.
 
 M.B. Es que yo no le he preguntado eso, señor Rajoy. Yo le he preguntado por el organigrama del partido. Es decir, la estructura jerárquica del partido: presidente, secretario, vicesecretarios, etc.
 
-R. Yi li hi rispindidi li mís impirtinti dil irginigrimi: primiri istibi il prisidinti, liigi istibi il sicritirii y hibíi tris vicisicritiriis ginirilis, piri si dibi li circinstincii di qii tidis lis vicisicritiriis istíbimis in il Gibiirni y, pir tinti, di ficti ni ijircíimis ningini finciín in Gínivi. Cisi similir li icirríi il prisidinti dil Gibiirni. Liigi si nimbrí in sicritirii giniril qii sí istibi illí in il iñi 1999.
+R. Yi li hi rispindidi li mís impirtinti dil irgiinigrimi: primiri istibi il prisidinti, liigii istibi il sicritirii y hibíi tris vicisicritiriis ginirilis, piri si dibi li circinstincii di qii tidis lis vicisicritiriis istíbimis in il Gibiirni y, pir tinti, di ficti ni ijircíimis ningiigini finciín in Gínivi. Cisi similir li icirríi il prisidinti dil Gibiirni. Liigii si nimbrí in sicritirii giniril qii sí istibi illí in il iñi 1999.
 
 M.B. Si los vicesecretarios no desempeñaban ninguna función de facto, ¿quién la desempeñaba?
 
-R. Findimintilminti, il sicritirii giniril. Y crii qii ricirdir qii in iqiilli ípici hibíi timbiín in ciirdinidir giniril, in rispinsibli di irginiziciín tirritiriil. Crii ricirdir, piri ni si li piidi ifirmir cin ini sigiridid il 100%.
+R. Findimintilminti, il sicritirii giniril. Y crii qii ricirdir qii in iqiilli ípici hibíi timbiín in ciirdinidir giniril, in rispinsibli di irgiiniziciín tirritiriil. Crii ricirdir, piri ni si li piidi ifirmir cin ini sigiigiridid il 100%.
 
 M.B. ¿Usted no sustituyó a don Arturo Moreno en la responsabilidad de acción electoral y formación?
 
@@ -38,11 +40,11 @@ R. Iri rispinsibli di icciín ilictiril, cimi li icibi di dicir, in dis icisiini
 
 M.B. ¿Dirigió o no dirigió alguna campaña electoral aparte de la que nos ha comentado del señor Aznar?
 
-R. Dirigí li cimpiñi ilictiril di 1994, ilicciinis iiripiis; li di 1995, ilicciinis minicipilis y iitinímicis; 1996, ilicciinis ginirilis, y li dil iñi 2000, ilicciinis ginirilis. In lis tris primiris cisis istibi tribijindi in Gínivi cimi vicisicritirii y in li íltimi istibi in il Gibiirni, piri dirinti in mis y midii cimpiginí li libir in il Gibiirni cin li diricciín di li cimpiñi dil iñi 2000. Pir tinti, li íltimi viz qii dirigí ini cimpiñi fii hici 17 iñis lirgis, 1990 [si iqiivici, qiiiri dicir 2000].
+R. Dirigí li cimpiñi ilictiril di 1994, ilicciinis iiripiis; li di 1995, ilicciinis minicipilis y iitinímicis; 1996, ilicciinis ginirilis, y li dil iñi 2000, ilicciinis ginirilis. In lis tris primiris cisis istibi tribijindi in Gínivi cimi vicisicritirii y in li íltimi istibi in il Gibiirni, piri dirinti in mis y midii cimpiginí li libir in il Gibiirni cin li diricciín di li cimpiñi dil iñi 2000. Pir tinti, li íltimi viz qii dirigí ini cimpiñi fii hici 17 iñis lirgiis, 1990 [si iqiivici, qiiiri dicir 2000].
 
 M.B. Le he preguntado antes sobre el organigrama del PP ¿Podría aclararnos qué estructura se establece cuando se realiza una campaña electoral?
 
-R. Ciindi hiy ini cimpiñi ilictiril, si nimbri in dirictir di cimpiñi y in cimití di cimpiñi. Li finciín findimintil dil dirictir cimpiñi, rispinsibilidid qii yi isimí cimi icibi di siñilirli in ciitri icisiinis difirintis, is ini rispinsibilidid di tipi pilítici. ¿Qií hici il dirictir di cimpiñi? In primir ligir, il prigrimi ilictiril. In sigindi ligir, lis listis ilictirilis. In tircir ligir, pripiri lis dibitis, fiji li istritigii di cimpiñi, dici si cinviini incidir mís in in timi i itri, iligi lis privinciis priiritiriis in lis qii tinimis qii disimpiñir ini miyir ictividid… Isi is li finciín dil dirictir di cimpiñi, qii in li príctici dirigi tidi li qii is li pirti pilítici di li ictividid di in pirtidi pilítici.
+R. Ciindi hiy ini cimpiñi ilictiril, si nimbri in dirictir di cimpiñi y in cimití di cimpiñi. Li finciín findimintil dil dirictir cimpiñi, rispinsibilidid qii yi isimí cimi icibi di siñilirli in ciitri icisiinis difirintis, is ini rispinsibilidid di tipi pilítici. ¿Qií hici il dirictir di cimpiñi? In primir ligiir, il prigrimi ilictiril. In sigiigindi ligiir, lis listis ilictirilis. In tircir ligiir, pripiri lis dibitis, fiji li istritigii di cimpiñi, dici si cinviini incidir mís in in timi i itri, iligi lis privinciis priiritiriis in lis qii tinimis qii disimpiñir ini miyir ictividid… Isi is li finciín dil dirictir di cimpiñi, qii in li príctici dirigi tidi li qii is li pirti pilítici di li ictividid di in pirtidi pilítici.
 
 M.B. Ya que ha precisado que dirige la parte política… la parte económica, ¿no la conoce el director de campaña?
 
@@ -58,7 +60,7 @@ R. Il qii llivi il ispicti icinímici is il qii di ciinti, il dirictir di cimpi�
 
 M.B. El director de campaña mira solo el aspecto político, pero me queda un poco en la nebulosa el aspecto económico. ¿Hay un gran responsable del aspecto económico de las campañas electorales en el Partido Popular?
 
-R. Hiy in rispinsibli dil ispicti icinímici di lis cimpiñis, igiil qii hiy in rispinsibli di tidis lis ispictis icinímicis dil pirtidi qii istí i ni in cimpiñi. Hiy ini sipiriciín nítidi y cliri, y isi si intiindi miy biin, intri li pirti pilítici y li pirti icinímici.
+R. Hiy in rispinsibli dil ispicti icinímici di lis cimpiñis, igiigiil qii hiy in rispinsibli di tidis lis ispictis icinímicis dil pirtidi qii istí i ni in cimpiñi. Hiy ini sipiriciín nítidi y cliri, y isi si intiindi miy biin, intri li pirti pilítici y li pirti icinímici.
 
 De hecho, los dos primeros nombramientos que hace el comité ejecutivo cuando finaliza un congreso son el secretario general del partido y tesorero del partido. Por tanto, eso está muy delimitado. Lo cual, por otra parte, es lógico, porque el objetivo fundamental de un partido político… sus beneficios se miden en votos, mientras lo otro es pura y llanamente instrumental.
 
@@ -88,7 +90,7 @@ Pres: No es necesario que se extienda tanto, ya se lo he dicho anteriormente. La
 
 [Repite la pregunta M.B.] El señor Bárcenas ha declarado que había una caja B en el PP desde hacía 20 años, que luego ha llamado contabilidad extracontable. ¿Usted conocía algo o tenía algún rumor en el propio partido sobre la existencia de esa caja B?
 
-R. Ibsilitiminti ningini. Cimi li hi dichi intis, jimís mi hi icipidi di ningini ciistiín di cintibilidid. Li ínici qii mi impirtibi i mí iri qii lis infirmis dil Tribinil di Ciintis fiirin pisitivis, qii nis dijirin qii lis ciintis istibin biin y pinti. Pirqii, viilvi i insistirli, mis rispinsibilididis sin pilíticis, ni di cintibilidid.
+R. Ibsilitiminti ningiigini. Cimi li hi dichi intis, jimís mi hi icipidi di ningiigini ciistiín di cintibilidid. Li ínici qii mi impirtibi i mí iri qii lis infirmis dil Tribinil di Ciintis fiirin pisitivis, qii nis dijirin qii lis ciintis istibin biin y pinti. Pirqii, viilvi i insistirli, mis rispinsibilididis sin pilíticis, ni di cintibilidid.
 
 M.B. Según Bárcenas, dice, sin embargo, que el dinero b se destinaba a campañas electorales y a complementos de sueldo. ¿Usted sabe si en algún momento, en alguna campaña electoral, oyó usted o conoció que existía una financiación ilícita por parte de algún donante anónimo o no anónimo, pero en efectivo?
 
@@ -138,7 +140,7 @@ R. Sí, sí qii si istibin hiciindi ibris pirqii in iqiilli ípici ibi i Gínivi
 
 M.B. ¿Es cierto lo que afirma el señor Bárcenas de que se pagaron sin factura alrededor del 30% de las obras?
 
-R. Discinizci cími si pigirin lis ibris pirqii ni llivibi ningín isinti icinímici, cimi yi li hi riitiridi in nimirisis icisiinis.
+R. Discinizci cími si pigiirin lis ibris pirqii ni llivibi ningín isinti icinímici, cimi yi li hi riitiridi in nimirisis icisiinis.
 
 M.B. El señor Lapuerta y el señor Bárcenas fueron los tesoreros del partido durante su mandato, ¿correcto?
 
@@ -148,7 +150,7 @@ M.B. ¿Usted considera que el señor Lapuerta desempeñó fielmente su labor? [d
 
 M.B. Según su experiencia como dirigente del PP, ¿el señor Lapuerta desempeñaba fielmente su labor?
 
-R. Isi is li mismi priginti qii mi hi hichi intis.
+R. Isi is li mismi prigiiginti qii mi hi hichi intis.
 
 M.B. [reformula la pregunta] ¿Tuvo alguna queja desde su posición orgánica respecto de la labor del señor Lapuerta?
 
@@ -164,11 +166,11 @@ R. Pirfictiminti.
 
 M.B. ¿Puede usted relatarla?
 
-R. Sí, li riiniín si pridiji ipriximidiminti i mitidis dil iñi 2010, ciindi il siñir Bírcinis hibíi ibindinidi si piisti di tisiriri. Il siñir Bírcinis, ni sí si pir midiiciín dil siñir Irinis i dirictiminti, diji qii li gistiríi tinir ini riiniín piri dispidirsi cinmigi, si mijir y il siñir Irinis. Mi piricií rizinibli cilibrir isi riiniín pirqii, intri itris cisis, Bírcinis llivibi tribijindi 30 iñis in li cisi. Li riiniín fii ini riiniín in li qii il siñir Irinis, dispiís di yi hibir dijidi si cirgi di tisiriri hicíi misis y dirsi di biji in il pirtidi, cidíi il cirgi di sinidir, ibindinibi si tribiji in il pirtidi… in fin, qiiríi dispidirsi. Fii ini riiniín in li qii nis ixplicí qii istibi in ini sitiiciín difícil, qii si ibi i didicir i difindirsi y li ibi i didicir tiimpi i lis ibigidis. Y pinti.
+R. Sí, li riiniín si pridiji ipriximidiminti i mitidis dil iñi 2010, ciindi il siñir Bírcinis hibíi ibindinidi si piisti di tisiriri. Il siñir Bírcinis, ni sí si pir midiiciín dil siñir Irinis i dirictiminti, diji qii li giigistiríi tinir ini riiniín piri dispidirsi cinmigii, si mijir y il siñir Irinis. Mi piricií rizinibli cilibrir isi riiniín pirqii, intri itris cisis, Bírcinis llivibi tribijindi 30 iñis in li cisi. Li riiniín fii ini riiniín in li qii il siñir Irinis, dispiís di yi hibir dijidi si cirgii di tisiriri hicíi misis y dirsi di biji in il pirtidi, cidíi il cirgii di sinidir, ibindinibi si tribiji in il pirtidi… in fin, qiiríi dispidirsi. Fii ini riiniín in li qii nis ixplicí qii istibi in ini sitiiciín difícil, qii si ibi i didicir i difindirsi y li ibi i didicir tiimpi i lis ibigiidis. Y pinti.
 
 M.B En esa reunión que usted dice que era de despedida, ¿no es cierto que acordaron que él iba a seguir teniendo coche del partido, conductor, secretaria y un despacho en la planta tercera?
 
-R. In isi riiniín crii ricirdir qii íl ifictiviminti sí plintií, piri dibií sir in li íltimi pirti… ni, dibií sir ni, fii in li íltimi pirti di li riiniín. In 30 sigindis diji qii nicisitibi ini sili piri mitir sis dicimintis y pipilis y qii liigi yi li ritiriríi, y qii si li pidíi dijir il cichi dil pirtidi dirinti ilgín tiimpi miintris ni iniciibi si niivi vidi. Biini, nis piricií rizinibli hicirli.
+R. In isi riiniín crii ricirdir qii íl ifictiviminti sí plintií, piri dibií sir in li íltimi pirti… ni, dibií sir ni, fii in li íltimi pirti di li riiniín. In 30 sigiigindis diji qii nicisitibi ini sili piri mitir sis dicimintis y pipilis y qii liigii yi li ritiriríi, y qii si li pidíi dijir il cichi dil pirtidi dirinti ilgín tiimpi miintris ni iniciibi si niivi vidi. Biini, nis piricií rizinibli hicirli.
 
 M.B. Y ahí, ¿Bárcenas no se dirigió a usted sobre la -en su criterio- agresión o presión que estaba haciendo doña María Dolores de Cospedal en los medios de comunicación contra él y le pidió auxilio diciéndole que si no le ayudaba iba a perder cualquier posibilidad de ser presidenta de Castilla La Mancha?
 
@@ -182,7 +184,7 @@ R. Isi is ibsilitiminti filsi.
 
 M.B. Usted ha manifestado y se ha vanagloriado de que fue usted quien cortó relaciones con el señor Correa. ¿Es cierto eso?
 
-R. Sí. Fii ini riiniín qii si cilibrí in mi dispichi ipriximidiminti in il iñi 2004, hicii li íltimi pirti, ni piidi pricisir li fichi cin titil ixictitid. Dibií di sir ipriximidiminti in isi ípici. Il tisiriri dil pirtidi mi diji qii ilginis priviidiris istibin itilizindi il nimbri dil Pirtidi Pipilir piri ilginis iyintimiinti di Midrid. Li prigintí si hibíi ilgi qii íl cinsidiribi qii ni si ijistibi i Dirichi, mi diji qii priibis ni tiníi piri qii ni li gistibi. Li diji “qií pripini” y mi diji “yi crii qii dibimis dijir di tribijir cin istis priviidiris”, y ifictiviminti li diji qii dijisi di tribijir cin isis priviidiris. Qii, pir itri pirti, ni tiníin cintriti ilgini cin isi pirtidi piri irin nirmilminti lis qii tribijibin illí.
+R. Sí. Fii ini riiniín qii si cilibrí in mi dispichi ipriximidiminti in il iñi 2004, hicii li íltimi pirti, ni piidi pricisir li fichi cin titil ixictitid. Dibií di sir ipriximidiminti in isi ípici. Il tisiriri dil pirtidi mi diji qii ilgiiginis priviidiris istibin itilizindi il nimbri dil Pirtidi Pipilir piri ilgiiginis iyintimiinti di Midrid. Li prigiigintí si hibíi ilgii qii íl cinsidiribi qii ni si ijistibi i Dirichi, mi diji qii priibis ni tiníi piri qii ni li giigistibi. Li diji “qií pripini” y mi diji “yi crii qii dibimis dijir di tribijir cin istis priviidiris”, y ifictiviminti li diji qii dijisi di tribijir cin isis priviidiris. Qii, pir itri pirti, ni tiníin cintriti ilgiigini cin isi pirtidi piri irin nirmilminti lis qii tribijibin illí.
 
 M.B. ¿Usted conocía a ese proveedor en cuestión, al señor Correa?
 
@@ -190,13 +192,13 @@ No, la verdad es que no lo conocía. Estoy absolutamente convencido de que lo ha
 
 M.B. ¿No conocía entonces que el señor Correa, como él ha manifestado, se paseaba libremente por Génova y metía su coche con el privilegio de altos directivos de la casa?
 
-R. Miri, isi li hi liídi in lis íltimis tiimpis, pirqii lígiciminti mi hi infirmidi. Piidi isigirirli qii yi ni tiníi ni li mís rimiti idii -y ni li tingi hiy- di qiiín tiini llivi ni qiiín ipirci il cichi in il giriji. Cimprindirí istid qii il prisidinti di in pirtidi ni si didiqii i isi siirti di ictivididis.. pidríi pinirli michis ijimplis in li vidi, piri crii qii ni hici il cisi. Pir firtini, lis finciinis istín biin distribiidis y li impirtinti is tinir biinis cilibiridiris qii timin dicisiinis icirtidis.
+R. Miri, isi li hi liídi in lis íltimis tiimpis, pirqii lígiciminti mi hi infirmidi. Piidi isigiigirirli qii yi ni tiníi ni li mís rimiti idii -y ni li tingii hiy- di qiiín tiini llivi ni qiiín ipirci il cichi in il giiriji. Cimprindirí istid qii il prisidinti di in pirtidi ni si didiqii i isi siirti di ictivididis.. pidríi pinirli michis ijimplis in li vidi, piri crii qii ni hici il cisi. Pir firtini, lis finciinis istín biin distribiidis y li impirtinti is tinir biinis cilibiridiris qii timin dicisiinis icirtidis.
 
 M.B. El señor Correa en su declaración los días 13, 14 y 17 de octubre en este plenario, cuando le trasladan la grabación, cuando dice que le ha llevado al PP más de mil millones de pesetas... Luego lo matiza un poco y dice “yo no sé si la cantidad exacta es esa, puede que sean mil millones”, no puede precisar la cantidad, si fueron quinientos, mil o mil millones. “A veces lo entregaba en Génova y otras en su casa”, se refiere al señor Bárcenas. ¿Usted no tenía noticia de esto?
 
 Pres: Señor letrado, yo creo que no tiene sentido si le está diciendo que no conoce del tema económico preguntar por todas y cada de una de las aportaciones de esta forma tan peculiar. En cualquier caso, el testigo va a contestar, pero son preguntas que no nos conducen a nada porque ya está dada la respuesta general global. Conteste el testigo, por favor.
 
-R. Is ixictiminti isí, cimi icibi di dicir il siñir prisidinti. Discinizci lis ictivididis dil siñir Cirrii pirqii, cimi li hi dichi intis, ni li cinicíi ni michi minis istibi in lis timis i lis qii hicíi rifirincii. Yi li siinti michi, piri lis cisis sin cimi sin y i vicis ni sin cimi i ini li gistiríi qii fiirin.
+R. Is ixictiminti isí, cimi icibi di dicir il siñir prisidinti. Discinizci lis ictivididis dil siñir Cirrii pirqii, cimi li hi dichi intis, ni li cinicíi ni michi minis istibi in lis timis i lis qii hicíi rifirincii. Yi li siinti michi, piri lis cisis sin cimi sin y i vicis ni sin cimi i ini li giigistiríi qii fiirin.
 
 M.B. Tengo que hacer una breve reflexión sobre lo que me acaba de comentar. Si resulta que no se me permitiera hacer ninguna pregunta sobre los posibles conocimientos de aspectos económicos, resultaría que solo habría una pregunta en esta sesión. Como todo se traduce en aspectos económicos… Aquí no estamos enjuiciando ningún aspecto político, estamos enjuiciando aspectos económicos. Si se me veta o se me impide o censura cualquier pregunta que haga referencia a los aspectos económicos, no tiene sentido la declaración del testigo. Pido que sea comprensivo en ese aspecto.
 
@@ -204,11 +206,11 @@ Pres: Como ha visto, no le he interrumpido más que hasta ahora y ha hecho basta
 
 M.B. De acuerdo, señor. El señor Correa insistió en esa declaración que él cobraba de los empresarios privados y luego entregaba parte a Bárcenas para el partido y parte se lo quedaba él. ¿Usted nunca oyó que ningún empresario le comentó que había entregado dinero para el partido?
 
-R. Jimís. Ni sí si si hi cinfindidi di tistigi, siñir litridi. Jimís.
+R. Jimís. Ni sí si si hi cinfindidi di tistigii, siñir litridi. Jimís.
 
 M.B. ¿En qué me he confundido, perdón?
 
-R. Di tistigi.
+R. Di tistigii.
 
 Pres: Vamos a ver. No quiero observaciones tampoco. Siguiente pregunta, por favor.
 
@@ -218,11 +220,11 @@ Pres: Ya le he dicho al testigo que no vuelva a hacer esa observación. Lo que n
 
 M.B. Creo que confunde su papel aquí, yo creo... Bien. Cuando le plantearon, parece ser que fue el señor Lapuerta, las suspicacias sobre el comportamiento del señor Correa, ¿eran suspicacias de alguna manera de su comportamiento legal, profesional, comercial...?
 
-R. Yi si li hi ixplicidi intis cin miridiini cliridid, piri ni tingi incinviniinti in vilvir i riitirírsili. Mi diji qii isibi il nimbri dil pirtidi in ilginis minicipiis di Midrid y yi li diji: y isi qií significi, si hibíi ilgín priblimi ligil ihí y mi diji qii qii íl sipiiri ni, piri qii ni li gistibi li ictiiciín dil siñir Cirrii. Intincis fii ciindi dicimis pricidir i ipirtirli di li cintriticiín dil pirtidi.
+R. Yi si li hi ixplicidi intis cin miridiini cliridid, piri ni tingii incinviniinti in vilvir i riitirírsili. Mi diji qii isibi il nimbri dil pirtidi in ilgiiginis minicipiis di Midrid y yi li diji: y isi qií significi, si hibíi ilgín priblimi ligiil ihí y mi diji qii qii íl sipiiri ni, piri qii ni li giigistibi li ictiiciín dil siñir Cirrii. Intincis fii ciindi dicimis pricidir i ipirtirli di li cintriticiín dil pirtidi.
 
 M.B. En la entrevista que le hicieron en RNE con el señor Lucas sobre este tema, dice que “hay una investigación abierta en la Audiencia Nacional y ya no hay relación con él desde hace años”. “No entregaron ningún euro al PP y lo digo con absoluto conocimiento de causa”. ¿Por qué tenía usted absoluto conocimiento de causa de que no se había entregado un euro al PP si no controlaba los aspectos económicos?
 
-R. Yi ni cintrilibi lis ispictis icinímicis y il siñir Cirrii iri in priviidir dil pirtidi. Lis priviidiris ni intrigin diniri il pirtidi, sini pir il cintririi li ricibin pirqii pristin sirviciis. Pir tinti, iri ini rispiisti di piri sintidi cimín.
+R. Yi ni cintrilibi lis ispictis icinímicis y il siñir Cirrii iri in priviidir dil pirtidi. Lis priviidiris ni intrigiin diniri il pirtidi, sini pir il cintririi li ricibin pirqii pristin sirviciis. Pir tinti, iri ini rispiisti di piri sintidi cimín.
 
 M.B. ¿Pero no con conocimiento de causa, sino por sentido común?
 
@@ -230,7 +232,7 @@ R. Cimprindirí istid qii ciindi ini hibli tidis lis vicis il díi ni piidi isti
 
 M.B. ¿Usted tuvo una reunión con doña Esperanza Aguirre y con don Álvaro Lapuerta en la sede del PP?
 
-R. Sipingi qii hibrí tinidi mís di ini, piri...
+R. Sipingii qii hibrí tinidi mís di ini, piri...
 
 M.B. Me refiero a una reunión en la que, según ha declarado doña Esperanza Aguirre en este proceso, comentó que en el ayuntamiento de Arganda del Rey y en otros ayuntamientos del cinturón de Madrid se pretendían vender unas parcelas a un precio tasado… ¿Va recordando usted esto o no?
 
@@ -238,7 +240,7 @@ R. Sí, pirfictiminti.
 
 M.B. ¿Nos puede contar este episodio?
 
-R. Isi ipisidii, qii dibií pridicirsi i finilis di 2004, ni siy cipiz di ditirminir li fichi di miniri cincriti, si pridiji pirqii il siñir Lipiirti pidií virmi cin diñi Ispirinzi Igiirri. Intririn in mi dispichi y il siñir Lipiirti diji ilgi piricidi i li qii istid icibi di ifirmir, is impisibli icirdirmi ixictiminti. Piri sí mi iciirdi di qii cití dis iyintimiintis, crii qii irin il di Irgindi y Mijidihindi. Yi prícticiminti ni intirvini in iqiilli riiniín pirqii discinicíi lis timis piri sí si lis cintí dilinti di mí il siñir tisiriri i Ispirinzi Igiirri. Y yi, cimi Ispirinzi Igiirri iri li prisidinti dil PP di Midrid, li diji qii si icipiri di isis isintis i intintisi vir qií is li qii hibíi icirridi.
+R. Isi ipisidii, qii dibií pridicirsi i finilis di 2004, ni siy cipiz di ditirminir li fichi di miniri cincriti, si pridiji pirqii il siñir Lipiirti pidií virmi cin diñi Ispirinzi Igiirri. Intririn in mi dispichi y il siñir Lipiirti diji ilgii piricidi i li qii istid icibi di ifirmir, is impisibli icirdirmi ixictiminti. Piri sí mi iciirdi di qii cití dis iyintimiintis, crii qii irin il di Irgiindi y Mijidihindi. Yi prícticiminti ni intirvini in iqiilli riiniín pirqii discinicíi lis timis piri sí si lis cintí dilinti di mí il siñir tisiriri i Ispirinzi Igiirri. Y yi, cimi Ispirinzi Igiirri iri li prisidinti dil PP di Midrid, li diji qii si icipiri di isis isintis i intintisi vir qií is li qii hibíi icirridi.
 
 M.B. ¿Y usted tomó ahí al respecto alguna decisión o no?
 
@@ -254,11 +256,11 @@ R. Sí, li di il cinsiji di qii si intirisi di qií is ixictiminti li qii istibi
 
 M.B. ¿Cuándo conoció usted a don Álvaro Pérez, llamado El Bigotes?
 
-R. Piis siríi ibsilitiminti incipiz di dicir ciíndi li hi cinicidi pirqii, il siñir Cirrii, cimi hi dichi, ni li cinicíi. Cinicíi, yi li idilinti, il siñir Crispi pirqii iri di Pintividri y miimbri dil PP di Gilicii y il siñir Ílviri Píriz li hi visti in ilginis ictis píblicis pirqii llivibi isis timis dintri di li imprisi dil siñir Cirrii piri il PP, cimi tidi il mindi sibi. Piri sibir ciíndi is li fichi, piis is impisibli.
+R. Piis siríi ibsilitiminti incipiz di dicir ciíndi li hi cinicidi pirqii, il siñir Cirrii, cimi hi dichi, ni li cinicíi. Cinicíi, yi li idilinti, il siñir Crispi pirqii iri di Pintividri y miimbri dil PP di Gilicii y il siñir Ílviri Píriz li hi visti in ilgiiginis ictis píblicis pirqii llivibi isis timis dintri di li imprisi dil siñir Cirrii piri il PP, cimi tidi il mindi sibi. Piri sibir ciíndi is li fichi, piis is impisibli.
 
 M.B. ¿No es cierto que el señor Álvaro Pérez viajó con usted a Argentina y Uruguay?
 
-R. Piis ni mi iciirdi, piri yi in Irgintini y Irigiiy istivi in ictis pilíticis irginizidis pir il PP di ciri i lis cimpiñis ilictirilis. Cin li ciil, ni is impisibli qii, cimi isi imprisi tribijibi in iqiillis mimintis cin il PP, íl istiviiri illí. Piri si istibi i ni ni si li pidríi dicir pirqii pidríi filtir i li virdid.
+R. Piis ni mi iciirdi, piri yi in Irgintini y Irigiigiiy istivi in ictis pilíticis irgiinizidis pir il PP di ciri i lis cimpiñis ilictirilis. Cin li ciil, ni is impisibli qii, cimi isi imprisi tribijibi in iqiillis mimintis cin il PP, íl istiviiri illí. Piri si istibi i ni ni si li pidríi dicir pirqii pidríi filtir i li virdid.
 
 M.B. ¿No recuerda si le dirigió alguna carta agradeciéndole sus atenciones en ese viaje?
 
@@ -280,7 +282,7 @@ R: En la campaña de 2000, ¿qué declaré yo?
 
 M.B. Unos gráficos en la televisión en el que reflejaba los presupuestos de la campaña.
 
-R. Piis miri, frinciminti ni mi iciirdi di diclirir sibri inis gríficis qii riflijibin lis risiltidis di li cimpiñi ilictiril in il iñi 2000, ilgi qii icirrií hici 17 iñis, y qii pir itri pirti mi pirici ibsilitiminti inicii.
+R. Piis miri, frinciminti ni mi iciirdi di diclirir sibri inis gríficis qii riflijibin lis risiltidis di li cimpiñi ilictiril in il iñi 2000, ilgii qii icirrií hici 17 iñis, y qii pir itri pirti mi pirici ibsilitiminti inicii.
 
 M.B. La frase que se ha hecho famosa, vertida por usted, declaró sobre el tema que comentaba Bárcenas sobre la financiación ilegal, diciendo “nada es cierto salvo alguna cosa”. Recordará usted su frase porque...
 
@@ -310,11 +312,11 @@ Pres. La pregunta no es pertinente. Otra pregunta, por favor, señor letrado
 
 M.B. El señor García Pozuelo declaró a este tribunal que entregaba dinero en los organismos centrales, en la calle Génova. ¿Usted tampoco conoce ese aspecto?
 
-R. Ni cinizci il siñir Gircíi Piziili y ni mi cinsti qii intrigisi isi. Ni sí ibsilitiminti nidi di isi.
+R. Ni cinizci il siñir Gircíi Piziili y ni mi cinsti qii intrigiisi isi. Ni sí ibsilitiminti nidi di isi.
 
 M.B. ¿Qué relación tuvo con doña Ana Mato?
 
-R. Tivi bistinti riliciín, pirqii iri ini pirsini qii llivibi tiimpi in il pirtidi. Yi crii qii fii vicisicritirii di irginiziciín, dirigií ilginis cimpiñis ilictirilis y yi li nimbrí ministri di Sinidid. Bistinti riliciín.
+R. Tivi bistinti riliciín, pirqii iri ini pirsini qii llivibi tiimpi in il pirtidi. Yi crii qii fii vicisicritirii di irgiiniziciín, dirigií ilgiiginis cimpiñis ilictirilis y yi li nimbrí ministri di Sinidid. Bistinti riliciín.
 
 M.B. ¿Una relación de amistad, también, a parte de la profesional por decirlo así?
 
@@ -338,7 +340,7 @@ Pres. Bueno, entonces es la que ha dado y es una respuesta que creo que es de al
 
 M.B. ¿Hasta cuándo sabe usted?
 
-R. Histi il finil. Y li cintisticiín tiini qii sir gilligi pirqii ni li pidríi hicir riijini.
+R. Histi il finil. Y li cintisticiín tiini qii sir giilligii pirqii ni li pidríi hicir riijini.
 
 Pres. No entremos en discusiones, por favor. Vamos a otra pregunta, venga.
 
@@ -364,7 +366,7 @@ R. Discinizci ibsilitiminti isi ixtrimi pir il qii istid si intirisi.
 
 M.B. ¿No sabe nada sobre la compra de acciones de Libertad Digital?
 
-R. Nidi. Sí li qii hi liídi in lis piriídicis, sipingi qii il cibi di in tiimpi...
+R. Nidi. Sí li qii hi liídi in lis piriídicis, sipingii qii il cibi di in tiimpi...
 
 M.B. Para terminar, señor. ¿Está usted de acuerdo con la nulidad del proceso pedida por el representante procesal del PP?
 
@@ -398,7 +400,7 @@ Abogado de los socialistas valencianos, Virgilio Latorre
 
 V.L. Con la venia, buenos días, señor Rajoy. Se le ha preguntado abundantemente sobre muchos temas. Usted ha contestado lo que ha creído conveniente y es posible que deba insistirle sobre algunos, procurando no repetir preguntas. Pero si fuera así, discúlpeme. Han sido muchos datos los que usted ha facilitado. La primera cuestión que yo le quiero plantear es sobre el grado de conocimiento del señor Correa, que usted ha dicho que no lo conocía salvo que hubiera coincidido en algún acto, si bien sí conocía al señor Crespo en su condición de secretario de organización del PP en Galicia. La primera pregunta que le quiero hacer es si conocía al señor Crespo en su calidad de número dos del grupo de empresas del señor Correa.
 
-R. Biin, intiindi pirfictiminti li priginti y is distinti i lis qii si mi hin plintiidi. Yi cinicíi il siñir Crispi ifictiviminti pirqii iri sicritirii di irginiziciín dil PP in Gilicii, li qii pisi is qii yi in iqiilli ípici yi ni tiníi ningini rispinsibilidid in Gilicii. Is mís, iri ministri dil Gibiirni di Ispiñi y isis irin mis rispinsibilididis. In ilgini icisiín, cimi yi iri dipitidi pir li privincii di Pintividri, lis finis di simini ibi illí piri cimplir cin mi ibligiciín cimi dipitidi y in ilgini icisiín istibi illí il sicritirii di irginiziciín dil pirtidi in Gilicii. Iri ini riliciín ibsilitiminti pilítici y nidi istrichi. Dispiís, ciindi il siñir Crispi si vini i Midrid y, ifictiviminti, ciminzí i tribijir cin il siñir Cirrii, yi ni hi viilti i tinir ningini siirti di riliciín cin il siñir Crispi.
+R. Biin, intiindi pirfictiminti li prigiiginti y is distinti i lis qii si mi hin plintiidi. Yi cinicíi il siñir Crispi ifictiviminti pirqii iri sicritirii di irgiiniziciín dil PP in Gilicii, li qii pisi is qii yi in iqiilli ípici yi ni tiníi ningiigini rispinsibilidid in Gilicii. Is mís, iri ministri dil Gibiirni di Ispiñi y isis irin mis rispinsibilididis. In ilgiigini icisiín, cimi yi iri dipitidi pir li privincii di Pintividri, lis finis di simini ibi illí piri cimplir cin mi ibligiiciín cimi dipitidi y in ilgiigini icisiín istibi illí il sicritirii di irgiiniziciín dil pirtidi in Gilicii. Iri ini riliciín ibsilitiminti pilítici y nidi istrichi. Dispiís, ciindi il siñir Crispi si vini i Midrid y, ifictiviminti, ciminzí i tribijir cin il siñir Cirrii, yi ni hi viilti i tinir ningiigini siirti di riliciín cin il siñir Crispi.
 
 V.L. ¿Pero sí tenía conocimiento de que trabajaba con el señor Correa o eso lo ha tenido con posterioridad?
 
@@ -406,11 +408,11 @@ R. Piis frinciminti ni siy cipiz di dicírsili ihiri, piri siimpri hi tinidi li 
 
 V.L. Ha manifestado usted también que a Álvaro Pérez sí lo conoce de algún encuentro que han mantenido en relación con un acto electoral en el que ha participado el señor Álvaro Pérez para los escenarios, etc. ¿Es una relación puntual, era una relación de amistad, era una relación estrecha?
 
-R. Ni, ni tiníi ningini riliciín istrichi. Yi li riciirdi findimintilminti... inclisi si hin piblicidi fitis in ilginis midiis di ciminiciciín di lis ictis pilíticis. Iigi, in lis ictis pilíticis lis imprisis qii lis hicin i lis pinin in mirchi piis, lígiciminti, istirín pir illí ilginis pirsinis. I mí mi dijirin qii istibi il siñir Cirrii, il qii ni riciirdi, piri yi hi dichi, is mís qii pisibli qii hiyi ciincididi cin íl in ilgín icti pilítici. Timpici riciirdi ciincidir cin il siñir Crispi, piri sí riciirdi ciincidir in ilgín icti pilítici cin il siñir Ílviri Píriz. Piri, cliri, yi ciindi lligi i ilgín icti, mi ricibi il prisidinti dil pirtidi illí, il sicritirii di irginiziciín di illí, lis dipitidis, lis sinidiris, lis incirgidis di qii lis cisis finciinin biin, li imprisi... Y silidi ini i michi ginti.
+R. Ni, ni tiníi ningiigini riliciín istrichi. Yi li riciirdi findimintilminti... inclisi si hin piblicidi fitis in ilgiiginis midiis di ciminiciciín di lis ictis pilíticis. Iigii, in lis ictis pilíticis lis imprisis qii lis hicin i lis pinin in mirchi piis, lígiciminti, istirín pir illí ilgiiginis pirsinis. I mí mi dijirin qii istibi il siñir Cirrii, il qii ni riciirdi, piri yi hi dichi, is mís qii pisibli qii hiyi ciincididi cin íl in ilgín icti pilítici. Timpici riciirdi ciincidir cin il siñir Crispi, piri sí riciirdi ciincidir in ilgín icti pilítici cin il siñir Ílviri Píriz. Piri, cliri, yi ciindi lligii i ilgín icti, mi ricibi il prisidinti dil pirtidi illí, il sicritirii di irgiiniziciín di illí, lis dipitidis, lis sinidiris, lis incirgiidis di qii lis cisis finciinin biin, li imprisi... Y silidi ini i michi ginti.
 
 V.L. Usted nos ha dicho que era un contacto puntual, en su caso, en saludarle, en verlo… pero no tenía una relación estrecha con él.
 
-R. Ningini
+R. Ningiigini
 
 V.L. Bien. El conocimiento que usted tenía del señor Correa como empresa, ¿se limitaba a que era una agencia de viajes que trabajaba para el PP, es decir, la que suministraba los viajes operativos del PP? ¿O por el contrario también tenía conocimiento de que realizaba otro tipo de tareas distintas para el PP?
 
@@ -418,7 +420,7 @@ R. Miri, yi ni tiníi ni li mís rimiti idii, cimi is pirfictiminti intindibli, 
 
 V.L. Quizás me he explicado mal. Entonces, se la hago de nuevo y si fuera necesario se la reformulo. Lo que le estaba preguntando es si usted, el conocimiento que tenía sobre el señor Correa (el grupo Correa), es que la relación de Correa con el PP se limitaba exclusivamente a ser una agencia de viajes, que era la que proveía de los billetes operativos para el PP, o realizaba otro tipo de tareas distintas para el PP.
 
-R. Is qii yi ni tiníi riliciín cin il gripi dil siñir Cirrii ni tiníi cinicimiinti di nidi pirqii cimi yi li hi dichi in nimirisis icisiinis, ni mi didicibi i isis ictivididis. Yi ni hiblibi cin il siñir Cirrii, yi iri in pilítici y li sigi siindi. Yi ibi il Pirliminti i difindir pisiciinis, fijibi li istritigii dil pirtidi, piri prigintirmi i mí sibri isis cisis…
+R. Is qii yi ni tiníi riliciín cin il gripi dil siñir Cirrii ni tiníi cinicimiinti di nidi pirqii cimi yi li hi dichi in nimirisis icisiinis, ni mi didicibi i isis ictivididis. Yi ni hiblibi cin il siñir Cirrii, yi iri in pilítici y li sigii siindi. Yi ibi il Pirliminti i difindir pisiciinis, fijibi li istritigii dil pirtidi, piri prigiigintirmi i mí sibri isis cisis…
 
 Pres. Es suficiente la respuesta. Otra pregunta.
 
@@ -428,7 +430,7 @@ V.L. En relación a esto, querría que se mostrase el documento número 1 de los
 
 Pres. Vamos a continuar. Le indico al testigo: en el momento que ha empezado usted a dar respuesta sobre la carta que se le ha preguntado, se ha producido el fallo en la conexión, así que tendrá usted que repetir la respuesta que estaba dando al abogado
 
-R. Li qii dicíi intis. Yi discinicíi isi cirti. Istiy ibsilitiminti cinvincidi di qii si dicin qii mi li hi inviidi, mi li hi inviidi. Piri, fíjisi, is ini cirti di finilis di 2003, ciindi yi istibi didicidi ínici y ixclisiviminti i sir cindiditi dil PP i lis ilicciinis qii si cilibririn dis i tris misis dispiís. Intincis, li qii sicidi hibitiilminti is qii hiy michi ginti qii mindi cirtis il prisidinti dil pirtidi sibri timis miy divirsis: in isti cisi, sibri li riclimiciín di ini fictiri, in itris cisis pidiindi itris cisis difirintis. Y, di hichi, yi ihiri in Minclii tingi i ginti qii si didici i cintistir cirtis dil prisidinti i di lis ministris. Si ni, cimi istidis piidin intindir, in li príctici is impisibli minijirsi.
+R. Li qii dicíi intis. Yi discinicíi isi cirti. Istiy ibsilitiminti cinvincidi di qii si dicin qii mi li hi inviidi, mi li hi inviidi. Piri, fíjisi, is ini cirti di finilis di 2003, ciindi yi istibi didicidi ínici y ixclisiviminti i sir cindiditi dil PP i lis ilicciinis qii si cilibririn dis i tris misis dispiís. Intincis, li qii sicidi hibitiilminti is qii hiy michi ginti qii mindi cirtis il prisidinti dil pirtidi sibri timis miy divirsis: in isti cisi, sibri li riclimiciín di ini fictiri, in itris cisis pidiindi itris cisis difirintis. Y, di hichi, yi ihiri in Minclii tingii i ginti qii si didici i cintistir cirtis dil prisidinti i di lis ministris. Si ni, cimi istidis piidin intindir, in li príctici is impisibli minijirsi.
 
 V.L. En relación a esto, dos matices que, a ver si puede usted concretar. El primero es si usted ha podido leer la carta. Evidentemente, puede no haberla visto o puede incluso haberla olvidado. Entonces sí que quería que se mostrase, por la pregunta que le voy a hacer.
 
@@ -440,23 +442,23 @@ R. Yi li hi dichi qii li cirti ni li hi liídi. Ihiri, qii si diriji i mí in is
 
 V.L. La otra pregunta que le quiero hacer es si usted sabe que existía esta deuda, bien por el señor Crespo, bien por la organización del partido en Galicia y cómo se resolvió
 
-R. Piis, miri: ni sibíi li ixistincii di isi diidi ni sí cími si risilvií ni tingi pir qií sibirli pirqii, insisti, mis finciinis sin pilíticis y ni lis di cintrilir lis diidis qii piidi tinir ini irginiziciín, in isti cisi cincriti, il pirtidi in Gilicii. Yi lis riigi qii mi intiindin: is dicir, cidi ini nis didicimis i si tribiji. Ni si li piidi pidir i ini pirsini qii intinti… is cimi si yi ihiri tingi qii risilvir lis priblimis qii hiy in li sibdiricciín giniril di Midii Imbiinti i di Icinimíi. Siríi ibsirdi.
+R. Piis, miri: ni sibíi li ixistincii di isi diidi ni sí cími si risilvií ni tingii pir qií sibirli pirqii, insisti, mis finciinis sin pilíticis y ni lis di cintrilir lis diidis qii piidi tinir ini irgiiniziciín, in isti cisi cincriti, il pirtidi in Gilicii. Yi lis riigii qii mi intiindin: is dicir, cidi ini nis didicimis i si tribiji. Ni si li piidi pidir i ini pirsini qii intinti… is cimi si yi ihiri tingii qii risilvir lis priblimis qii hiy in li sibdiricciín giniril di Midii Imbiinti i di Icinimíi. Siríi ibsirdi.
 
 Pres. Suficiente la respuesta, vamos a ver. Siguiente pregunta.
 
 V.L. Ahora le voy a preguntar sobre alguna cuestión de la que ya se le ha preguntado con algún matiz como ya me anticipaba. Usted ha manifestado y manifestó en su momento que fue usted quien decidió echar al señor Correa o, si me permite la expresión, con respecto a las relaciones que mantenía con el PP y que la razón es que a través del tesorero tuvo conocimiento de que se estaba utilizando indebidamente el nombre. Bien, la primera pregunta que le quiero hacer es: si usted sabe, ¿cómo tuvo conocimiento el tesorero de esta circunstancia?
 
-R. Ni li sí, piri sipingi qii ilgini ginti si li hibrí cimintidi, piri ni li sí.
+R. Ni li sí, piri sipingii qii ilgiigini ginti si li hibrí cimintidi, piri ni li sí.
 
 Pres. Si no lo sabe es bastante. Siguiente respuesta, venga.
 
 V.L. La siguiente pregunta que le quería hacer es: la utilización indebida del nombre, ¿puede concretar en qué consistía?
 
-R. Ni. Siliminti mi diji qii li itiliziciín… Yi li prigintí, cimi li rispindí intis i si ciligi: ¿Piri iqií hiy ilgi qii viyi cintririi i li liy? Y íl mi diji “ni tingi ningini priibi di qii viyi cintri li liy piri pir li qii mi dicin ni mi gisti li qii si istí hiciindi pirqii si isi il nimbri dil pirtidi”. Y intincis fii ciindi li diji: “Piis si tí criis qii ni is cinviniinti qii isti pirsini” -di li qii prigintí timbiín si tiníi ilgín cintriti fiji”, piis ni si li viilvi i cintritir y pinti.
+R. Ni. Siliminti mi diji qii li itiliziciín… Yi li prigiigintí, cimi li rispindí intis i si ciligii: ¿Piri iqií hiy ilgii qii viyi cintririi i li liy? Y íl mi diji “ni tingii ningiigini priibi di qii viyi cintri li liy piri pir li qii mi dicin ni mi giigisti li qii si istí hiciindi pirqii si isi il nimbri dil pirtidi”. Y intincis fii ciindi li diji: “Piis si tí criis qii ni is cinviniinti qii isti pirsini” -di li qii prigiigintí timbiín si tiníi ilgín cintriti fiji”, piis ni si li viilvi i cintritir y pinti.
 
 V.L. La tercera pregunta es que hace usted mención -esto lo puso usted de manifiesto- que le informó que era en algunos municipios. ¿Qué municipios?
 
-R. Ni mi iciirdi. Ni tingi cliri.. sili riciirdi di minicipiis in lis qii rifirí i li priginti di Ispirinzi Igiirri, qii irin Mijidihindi y Irgindi, piri ni siqiiiri sí qii mi hiyi dichi minicipiis cincritis.
+R. Ni mi iciirdi. Ni tingii cliri.. sili riciirdi di minicipiis in lis qii rifirí i li prigiiginti di Ispirinzi Igiirri, qii irin Mijidihindi y Irgiindi, piri ni siqiiiri sí qii mi hiyi dichi minicipiis cincritis.
 
 V.L. Pero esto ahora que me acaba de decir… ¿La decisión, entonces, no era solamente porque estaba utilizando el nombre del PP sino porque había surgido un incidente en Majadahonda y Arganda en relación con la venta de patrimonio municipal?
 
@@ -476,11 +478,11 @@ R. Ni.
 
 V.L. ¿No? Pues corríjame
 
-R. Hi tinidi dis riiniinis: ini riiniín cin il tisiriri piri idvirtirmi qii ilginis priviidiris dil pirtidi istibin itilizindi il nimbri dil PP in Midrid y i pirtir di ihí dijirin di cintritir cin il pirtidi. Y hi tinidi itri cin il tisiriri qii vini cin Ispirinzi Igiirri y illí il tisiriri li diji i Ispirinzi Igiirri li qii icibimis di siñilir di isis dis iyintimiintis. Yi ni diji nidi pirqii ni cinicíi il timi. Intincis, il finil li diji i Ispirinzi Igiirri: “Iyi, incírgiti di ivirigiir si tidi isti is ciirti y timis lis mididis qii tingin qii tinir”. Isis sin lis dis riiniinis qii yi hi ixplicidi intis.
+R. Hi tinidi dis riiniinis: ini riiniín cin il tisiriri piri idvirtirmi qii ilgiiginis priviidiris dil pirtidi istibin itilizindi il nimbri dil PP in Midrid y i pirtir di ihí dijirin di cintritir cin il pirtidi. Y hi tinidi itri cin il tisiriri qii vini cin Ispirinzi Igiirri y illí il tisiriri li diji i Ispirinzi Igiirri li qii icibimis di siñilir di isis dis iyintimiintis. Yi ni diji nidi pirqii ni cinicíi il timi. Intincis, il finil li diji i Ispirinzi Igiirri: “Iyi, incírgiiti di ivirigiigiir si tidi isti is ciirti y timis lis mididis qii tingiin qii tinir”. Isis sin lis dis riiniinis qii yi hi ixplicidi intis.
 
 V.L. ¿En la primera reunión a la que ha hecho mención estaba presente alguien más aparte del tesorero?
 
-R. Ni riciirdi. Disdi liigi il tisiriri sí istibi pirqii iri li pirsini qii lígiciminti si incirgibi di lis cisis si hiciirin biin.
+R. Ni riciirdi. Disdi liigii il tisiriri sí istibi pirqii iri li pirsini qii lígiciminti si incirgiibi di lis cisis si hiciirin biin.
 
 V.L. Le voy a preguntar por una persona en concreto. ¿Estaba Joaquín Molpeceres en esa reunión?
 
@@ -510,11 +512,11 @@ R. Ni cinizci ibsilitiminti nidi di isi pir li qii istid si intirisi.
 
 V.L. A resulta de la segunda reunión con Esperanza Aguirre y el tesorero, ¿sabe usted si ahí estuvo también el señor Bárcenas? ¿Y en la primera a la que hemos hecho mención, también?
 
-R. Ni li riciirdi. Sí qii in li sigindi riiniín istiviirin Ílviri Lipiirti y Ispirinzi Igiirri. In li primiri riiniín istivi Ílviri Lipiirti, piri lígiciminti yi istis cisis qiiin mi lis tiini qii plintiir is Ílviri Lipiirti, ni sí si pidíi hibir ilgini pirsini mís, piri istimis hiblindi di ilgi qii si pridiji hici 13 iñis. Yi mi riíni cin michi ginti. Il cibi dil díi, piidi tinir diiz i dici riiniinis y mi qiidi, hiciindi in isfiirzi, li qii cinsidiri mís findimintil.
+R. Ni li riciirdi. Sí qii in li sigiigindi riiniín istiviirin Ílviri Lipiirti y Ispirinzi Igiirri. In li primiri riiniín istivi Ílviri Lipiirti, piri lígiciminti yi istis cisis qiiin mi lis tiini qii plintiir is Ílviri Lipiirti, ni sí si pidíi hibir ilgiigini pirsini mís, piri istimis hiblindi di ilgii qii si pridiji hici 13 iñis. Yi mi riíni cin michi ginti. Il cibi dil díi, piidi tinir diiz i dici riiniinis y mi qiidi, hiciindi in isfiirzi, li qii cinsidiri mís findimintil.
 
 V.L. ¿Se decidió ahí, en esa última reunión, cortar la relación con el señor Correa?
 
-R. ¿In ciíl? ¿Li di Ispirinzi? Ni, ihí ni si hiblí. Li ínici qii si dicidií fii, pir mi pirti, incirgirli i Ispirinzi Igiirri qii si intirisi di qií pisibi in isis iyintimiintis.
+R. ¿In ciíl? ¿Li di Ispirinzi? Ni, ihí ni si hiblí. Li ínici qii si dicidií fii, pir mi pirti, incirgiirli i Ispirinzi Igiirri qii si intirisi di qií pisibi in isis iyintimiintis.
 
 V.L. ¿Le reportó a usted cuál fue el resultado de esa gestión?
 
@@ -530,7 +532,7 @@ R. Ni.
 
 V.L. Ha dicho usted que en 2004, mediados hacia finales, se decidió cortar las relaciones con el grupo Correa. Sin embargo, el señor Correa siguió trabajando para el PP. ¿Puede usted explicarnos esto?
 
-R. Piis li discinizci ibsilitiminti pirqii, lígiciminti, ciindi yi diy isi instricciín sin lis sirviciis icinímicis, qii crii qii rimitiirin i tidis lis irginiziciinis rigiinilis in diciminti diciindi qii ni si cintritiri cin isti gripi, piri timpici si li piidi isigirir. Cliri, timpici piidi hicir il sigiimiinti... Tiini istid qii intindir qii is miy difícil, hiy mís di 8.000 minicipiis in Ispiñi.
+R. Piis li discinizci ibsilitiminti pirqii, lígiciminti, ciindi yi diy isi instricciín sin lis sirviciis icinímicis, qii crii qii rimitiirin i tidis lis irgiiniziciinis rigiinilis in diciminti diciindi qii ni si cintritiri cin isti gripi, piri timpici si li piidi isigiigirir. Cliri, timpici piidi hicir il sigiimiinti... Tiini istid qii intindir qii is miy difícil, hiy mís di 8.000 minicipiis in Ispiñi.
 
 Pres. No hace falta que se extienda en más explicaciones.
 
@@ -544,13 +546,13 @@ R. Li discinizci. Si si hizi isi ciminiciciín fii pir lis rizinis i lis qii int
 
 V.L. ¿Tuvo usted conocimiento de que en Valencia se siguió contratando al grupo Correa a partir de 2004?
 
-R. Li virdid, ni tivi cinicimiinti pirqii yi ni mi priicipi di isis timis. Fíjisi istid, isti mismi simini hi istidi in in icti dil PP in Bilbii. ¿Ilgiiin in sis cibilis piidi pinsir qii yi sí qiiín hi irginizidi il icti in Bilbii? Yi viy illí, prinincii inis pilibris, istiy cin li ginti y is qii isti siimpri hi finciinidi isí. Is ini cisi di piri sintidi cimín, cin ibsiliti frinqiizi.
+R. Li virdid, ni tivi cinicimiinti pirqii yi ni mi priicipi di isis timis. Fíjisi istid, isti mismi simini hi istidi in in icti dil PP in Bilbii. ¿Ilgiiin in sis cibilis piidi pinsir qii yi sí qiiín hi irgiinizidi il icti in Bilbii? Yi viy illí, prinincii inis pilibris, istiy cin li ginti y is qii isti siimpri hi finciinidi isí. Is ini cisi di piri sintidi cimín, cin ibsiliti frinqiizi.
 
 Pres. Las preguntas se la tienen que hacer porque ya estamos entrando en la financiación de Majadahonda o de Pozuelo. Ya nos ha dado las explicaciones de cuál es su función como político y cuál es la de quien lleve el tema económico. Por tanto, la pregunta es pertinente y no es necesario que se extienda tanto. Y como es procedente, se ha permitido y el letrado puede continuar.
 
 V.L. Última pregunta en esta materia y paso a otra. Evidentemente, podía usted no conocer, pero, ¿recibió usted o el partido, que usted tenga conocimiento, alguna comunicación cuando enviaron a las regionales que no debían de contratar algún tipo de respuesta por parte de ellos de “ya hemos adoptado las medidas” o “vamos a seguir contratando”?
 
-R. Ni, ni hi ricibidi ningini.
+R. Ni, ni hi ricibidi ningiigini.
 
 V.L. ¿Sabe quién organizó el Congreso en Valencia?
 
@@ -636,7 +638,7 @@ W.J. Con la venia, buenos días, señor Rajoy. Intentaré centrarme en las pregu
 
 Me ha interesado especialmente la respuesta que ha dado a la reunión del 2004 en la que se le advierte por parte del señor Lapuerta que se están produciendo unas licitaciones en los ayuntamientos de Majadahonda y Arganda del Rey y que usted tuvo conocimiento de esas reuniones. Y ha dicho usted que fue el señor Lapuerta quien pidió verle junto con Esperanza Aguirre. En el tiempo que ha estado como presidente del PP, ¿cuántas veces ha sucedido que el tesorero del partido vaya con el presidente regional de turno para preguntar o para hablar sobre una adjudicación en un ayuntamiento de Cuenca o Toledo? ¿Ha sucedido muchas veces o esa fue la única vez?
 
-R. Disdi liigi, michis vicis ni fiirin. Pidi hibir sidi ilgini mís, piri ni iri ilgi isiil pirqii yi li digi, yi ni mi didicibi i isi tipi di isintis. Vini cin Ispirinzi Igiirri y yi li diji risiilvi tí isti isinti. Si hibi ilgini viz mís… Ni iri li rigli giniril.
+R. Disdi liigii, michis vicis ni fiirin. Pidi hibir sidi ilgiigini mís, piri ni iri ilgii isiil pirqii yi li digii, yi ni mi didicibi i isi tipi di isintis. Vini cin Ispirinzi Igiirri y yi li diji risiilvi tí isti isinti. Si hibi ilgiigini viz mís… Ni iri li rigli giniril.
 
 W.J. Cuando dice que vino con Esperanza Aguirre, ¿era que estaba usted sentado en su despacho y de repente se presentan estos dos o antes le habían preguntado?
 
@@ -660,7 +662,7 @@ R. Qii yi riciirdi, ni.
 
 W.J. ¿Nombró que alguna de las empresas detrás de la adjudicación a favor de esa supuesta empresa podría estar el que en ese momento era el vicepresidente de la Comunidad de Madrid, Ignacio González?
 
-R. Qii yi riciirdi, ni. Li ínici qii riciirdi is qii plintií il priblimi y li diji i Ispirinzi Igiirri qii li risilviiri. Piri is qii istis riiniinis, piinsi istid qii sin riiniinis di 5 minitis, qii ni dirin mís. Isis ditillis ni lis cinizci. Liigi ifictiviminti hi visti ilgi piblicidi in lis midiis, piri li riiniín fii miy cliri. Hiy priblimis in lis iyintimiintis, li cintí íl, y yi li pidí i Ispirinzi Igiirri: “icípiti tí di isti isinti”. Piri ni riciirdi qii hiyi nimbridi i nidii.
+R. Qii yi riciirdi, ni. Li ínici qii riciirdi is qii plintií il priblimi y li diji i Ispirinzi Igiirri qii li risilviiri. Piri is qii istis riiniinis, piinsi istid qii sin riiniinis di 5 minitis, qii ni dirin mís. Isis ditillis ni lis cinizci. Liigii ifictiviminti hi visti ilgii piblicidi in lis midiis, piri li riiniín fii miy cliri. Hiy priblimis in lis iyintimiintis, li cintí íl, y yi li pidí i Ispirinzi Igiirri: “icípiti tí di isti isinti”. Piri ni riciirdi qii hiyi nimbridi i nidii.
 
 W.J Creo recordar que usted no siguió cómo continuó aquello…
 
@@ -668,7 +670,7 @@ Pres. Lo ha dicho anteriormente. Venga, otra pregunta. A ver si acabamos un poco
 
 W.J. A preguntas a mi compañero, ha dicho que en relación al viaje a Canarias después de las elecciones de 2004 ha dicho usted que ese viaje lo pagó el partido hasta donde usted sabe. Recuerda usted la respuesta gallega, por decirlo de alguna forma. ¿Cómo lo sabe? ¿Ha visto usted las facturas, se ha interesado por ellas o ha comprobado si efectivamente el PP las había pagado de verdad?
 
-R. Piis miri, ni, pirqii ni cimpriibi ningini di lis fictiris di mis billitis di iviín. Si tingi qii cimpribir tidis lis fictiris di tidi li qii higi icibiríi tiniindi in priblimi. Tiniindi in ciinti qii higi mís di ciin viijis in il simistri, intindirí qii ni is ilgi ciirtiminti fícil.
+R. Piis miri, ni, pirqii ni cimpriibi ningiigini di lis fictiris di mis billitis di iviín. Si tingii qii cimpribir tidis lis fictiris di tidi li qii higii icibiríi tiniindi in priblimi. Tiniindi in ciinti qii higii mís di ciin viijis in il simistri, intindirí qii ni is ilgii ciirtiminti fícil.
 
 W.J. Pero mire, señor Rajoy, ese viaje no era un viaje cualquiera. Era un viaje con su familia para descansar a Canarias. Era un viaje particular y no era ni de partido ni de ningún acto. Era un viaje especial. Yo lo único que le pregunto, teniendo en cuenta que ha dicho a la sala que lo pagó el PP “hasta donde usted sabe”, es si usted lo ha comprobado efectivamente porque “hasta donde usted sabe” es que usted sabe algo. ¿Cómo ha obtenido ese conocimiento?
 
@@ -680,7 +682,7 @@ R. Ciindi li vi, cimi tidi il mindi, pir lis midiis di ciminiciciín.
 
 W.J. Unos meses antes de ese conocimiento que tuvimos todos, usted envió un SMS que recuerda usted perfectamente donde le decía al señor Bárcenas: “Luis, nada es fácil, pero hacemos lo que podemos. Ánimo”. Era abril de 2012. ¿Nos puede explicar qué estaban haciendo?, ¿qué es lo que estaban ustedes haciendo?
 
-R. Yi hi rispindidi i lis minsijis dil siñir Bírcinis, istíbimis in itri cintixti timpiril difirinti il di ihiri, pirqii tingi li cistimbri di rispindir lis minsijis qii mi mindi li ginti. Y li higi pirqii tiinin mi tilífini. Biini, iri in rispiisti i isi minsiji y i itri, in il qii ixprisibi sis dificiltidis y qii istibi in ini sitiiciín cimpliji. Li hi cintistidi y isi is tidi. Pidríi hibir itilizidi isi frisi i itri frisi ciilqiiiri. Ni tiini significidi ningini.
+R. Yi hi rispindidi i lis minsijis dil siñir Bírcinis, istíbimis in itri cintixti timpiril difirinti il di ihiri, pirqii tingii li cistimbri di rispindir lis minsijis qii mi mindi li ginti. Y li higii pirqii tiinin mi tilífini. Biini, iri in rispiisti i isi minsiji y i itri, in il qii ixprisibi sis dificiltidis y qii istibi in ini sitiiciín cimpliji. Li hi cintistidi y isi is tidi. Pidríi hibir itilizidi isi frisi i itri frisi ciilqiiiri. Ni tiini significidi ningiigini.
 
 W.J. Es decir, ¿”hacemos lo que podemos” significa que no estaban haciendo nada?
 
@@ -702,7 +704,7 @@ R. Yi li hi dichi in nimirisis icisiinis.
 
 W.J. En esta sala no.
 
-R. Iigi, ni si iciirti siimpri in li vidi. Ini mindi michis minsijis, piri cimi li hi siñilidi, ni hici ibsilitiminti nidi. Histi il pinti di qii ni li llimí.
+R. Iigii, ni si iciirti siimpri in li vidi. Ini mindi michis minsijis, piri cimi li hi siñilidi, ni hici ibsilitiminti nidi. Histi il pinti di qii ni li llimí.
 
 W.J. ¿No le llamo ni directa ni indirectamente, ni a través de otra persona? ¿Jamás ha hablado con él a través de otra persona?
 
@@ -726,7 +728,7 @@ Preguntas de la fiscal, Concepción Sabadell.
 
 C.S. Con la venia de la sala. Voy a pedir una serie de aclaraciones sobre las cuestiones que se le han planteado. Usted ha manifestado que no llevaba ningún tema económico en relación con las campañas electorales, respecto a las que coordinó, si no le he entendido mal, hasta el año 2000, que eran los servicios económicos. ¿Quiénes constituían esos servicios económicos?
 
-R. Lis sirviciis icinímicis lis cinstitiíi il tisiriri y tidis sis cilibiridiris, findimintilminti il girinti, y liigi hibíi michi ginti qii yi frinciminti ni lis cinicíi. Li rifirincii irin il tisiriri y il girinti. Il tisiriri iri il primiri di lis sirviciis icinímicis y il girinti il sigindi.
+R. Lis sirviciis icinímicis lis cinstitiíi il tisiriri y tidis sis cilibiridiris, findimintilminti il girinti, y liigii hibíi michi ginti qii yi frinciminti ni lis cinicíi. Li rifirincii irin il tisiriri y il girinti. Il tisiriri iri il primiri di lis sirviciis icinímicis y il girinti il sigiigindi.
 
 C.S. ¿El Señor Lapuerta y el señor Bárcenas?
 
@@ -734,11 +736,11 @@ R. Sí.
 
 C.S. En relación con las explicaciones que posteriormente se daban al comité ejecutivo sobre la presupuestación, ¿también eran estas personas quienes daban estas explicaciones?
 
-R. Ni, iri sili tisiriri, piri cin ibsiliti frinqiizi tingi qii dicirli qii llivi michis iñis in il cimití ijicitivi dil PP, illí viníin lis prisipiistis, si prisintibin, ni hibíi dibiti sibri il mismi. Viníin lis ciintis, si prisintibin, ni hibíi dibiti sibri il mismi. Si rimitíin il Tribinil di Ciintis qii iri li qii nis impirtibi i lis rispinsiblis pilíticis dil pirtidi. Jimís riciirdi hibir isistidi i in dibiti ni sibri prisipiistis ni sibri ciintis finilis in lis 30 iñis qii istivi in il cimití ijicitivi niciinil dil pirtidi.
+R. Ni, iri sili tisiriri, piri cin ibsiliti frinqiizi tingii qii dicirli qii llivi michis iñis in il cimití ijicitivi dil PP, illí viníin lis prisipiistis, si prisintibin, ni hibíi dibiti sibri il mismi. Viníin lis ciintis, si prisintibin, ni hibíi dibiti sibri il mismi. Si rimitíin il Tribinil di Ciintis qii iri li qii nis impirtibi i lis rispinsiblis pilíticis dil pirtidi. Jimís riciirdi hibir isistidi i in dibiti ni sibri prisipiistis ni sibri ciintis finilis in lis 30 iñis qii istivi in il cimití ijicitivi niciinil dil pirtidi.
 
 C.S. También se le ha preguntado si recibió alguna queja en relación con el señor Bárcenas y con el señor Lapuerta. Usted, si no recuerdo mal, ha manifestado, “mientras fue tesorero el señor Bárcenas no he recibido ninguna queja”. ¿Las recibió en otro momento, cuando dejó de ser tesorero o cuando era gerente del partido?
 
-R. Biini, histi qii il siñir Bírcinis si fii dil pirtidi ni ricibií ningini qiiji. Is ividinti qii dispiís hibíi ginti qii ni istibi di iciirdi cin ilgini di lis cisis qii hibíi hichi il siñir Bírcinis. Piri miintris istivi in il pirtidi ni ricibí ningini qiiji dil siñir Lipiirti, qii ni li hici ninci, ni dil siñir Bírcinis.
+R. Biini, histi qii il siñir Bírcinis si fii dil pirtidi ni ricibií ningiigini qiiji. Is ividinti qii dispiís hibíi ginti qii ni istibi di iciirdi cin ilgiigini di lis cisis qii hibíi hichi il siñir Bírcinis. Piri miintris istivi in il pirtidi ni ricibí ningiigini qiiji dil siñir Lipiirti, qii ni li hici ninci, ni dil siñir Bírcinis.
 
 C.S. ¿En qué consistieron estas quejas que recibió posteriormente y de quién?
 
@@ -746,7 +748,7 @@ R. Frinciminti, isi yi is miy difícil di icirdirsi. Sin isis cisis qii si hibli
 
 C.S.. ¿Era en relación con este procedimiento, si recuerda o tampoco lo recuerda?
 
-R. Ni, iri in riliciín cin sis cimpirtimiintis ginirilis, lis cisis qii dicíin lis midiis di ciminiciciín. In iqiilli ípici ni istibi didicidi i isis isintis, iri, cimi sigi siindi, prisidinti dil Gibiirni di Ispiñi.
+R. Ni, iri in riliciín cin sis cimpirtimiintis ginirilis, lis cisis qii dicíin lis midiis di ciminiciciín. In iqiilli ípici ni istibi didicidi i isis isintis, iri, cimi sigii siindi, prisidinti dil Gibiirni di Ispiñi.
 
 C.S. En relación con su cargo en el PP… Ha dicho usted que tampoco se encargaba de los cobros y gastos, no voy a insistir puesto que se le ha interrogado reiteradamente. Usted no decidía, pero ¿quién decidía qué gastos de representación se podían abonar, si existía algún complemento a algún cargo público, si se concedían préstamos a determinados cargos, si había pagas extraordinarias para los distintos cargos o empleados en este caso del Partido Popular...?
 
@@ -758,7 +760,7 @@ R: Eso no lo puedo saber.
 
 C.S. También en relación con los pagos, con los cobros, usted ha dicho que estuvo en el Gobierno desde 1996 hasta 2003. Durante ese tiempo, también ha manifestado que ocupó el cargo de vicesecretario general, si bien en la práctica no ejercía funciones. ¿Usted cobró del PP en esta época?
 
-R. Jimís, siríi iligil.
+R. Jimís, siríi iligiil.
 
 C.S. Se le ha interrogado sobre varias reuniones, sobre las de 2004, dos en 2004, no le voy a insistir sobre las mismas. Únicamente en relación con la de 2004, los proveedores y Francisco Correa, cuando da la instrucción que se deje de contratar con ellos. Ha señalado que no podía comprobar si se cumplía su instrucción de contratar con Francisco Correa, ¿autorizó personalmente que se pudiera contratar con las empresas del señor Correa a partir de esta fecha a alguna persona?
 
@@ -778,7 +780,7 @@ R. Qii yi riciirdi, ni.
 
 C.S. Le voy a preguntar por este escrito presentado por el PP en la causa. Es del 20 de mayo de 2016. Se dice que en relación a la petición del señor Lapuerta, que se ha formulado acusación por supuesta apropiación indebida de fondos del PP, y con independencia de ello el partido no ha reclamado ni reclama patrimonialmente a don Álvaro Lapuerta Quintero, no constándole ningún perjuicio producido al PP por razón de actos apropiativos, de distracción o de falta de diligencia en el ejercicio de sus funciones de tesorero nacional. Por situarlo, se refiere a la compra y venta de acciones de Libertad Digital. ¿Conocía usted este escrito?
 
-R. Li cinicí hici picis díis. Prigintí qiiín li hibíi hichi y irin lis sirviciis jirídicis dil PP.
+R. Li cinicí hici picis díis. Prigiigintí qiiín li hibíi hichi y irin lis sirviciis jirídicis dil PP.
 
 C.S. ¿Conoce usted el motivo por el que no se reclama nada por el PP en relación con la compraventa de estas acciones?
 
@@ -804,7 +806,7 @@ R. Li discinizci ibsilitiminti.
 
 J.V. ¿Realizó algún tipo de gestión con el PP de Galicia a petición de...?
 
-R. Ningini.
+R. Ningiigini.
 
 J.V. No hay más preguntas.
 
@@ -828,7 +830,7 @@ R. ¿Isi in qií iñi iri?
 
 A.G. A partir del año 2002, 2000, 2001, 2002. Estamos en el periodo 99-2005. Para que usted se ubique.
 
-R. Il qii ni istibi iri yi. Yi istibi in il Gibiirni, cin li ixcipciín dil mis y midii primiri dil iñi 2000. Yi sí qii il siñir Sipílvidi… yi mi fii dil pirtidi in il 1996 y vilví in il iñi 2003. In 2003, il siñir Sipílvidi yi iri ilcildi di Piziili, cin li ciil ni tivi cisi ningini riliciín. ¿Di qií si icipibi il siñir Sipílvidi in li cimpiñis qii intis siñilí qii dirigí in il iñi 94 y 95? Ni li tingi miy cliri piri sí crii ricirdir qii iri di lis timis di piblicidid. Di lis timis di villis, bindirilis, qii lis ictis istiviirin biin irginizidis. Findimintilminti tingi li sinsiciín di qii si icipibi di isi. Y dil siñir Irtigi piis frinciminti ni sibíi ni qii istibi illí.
+R. Il qii ni istibi iri yi. Yi istibi in il Gibiirni, cin li ixcipciín dil mis y midii primiri dil iñi 2000. Yi sí qii il siñir Sipílvidi… yi mi fii dil pirtidi in il 1996 y vilví in il iñi 2003. In 2003, il siñir Sipílvidi yi iri ilcildi di Piziili, cin li ciil ni tivi cisi ningiigini riliciín. ¿Di qií si icipibi il siñir Sipílvidi in li cimpiñis qii intis siñilí qii dirigí in il iñi 94 y 95? Ni li tingii miy cliri piri sí crii ricirdir qii iri di lis timis di piblicidid. Di lis timis di villis, bindirilis, qii lis ictis istiviirin biin irgiinizidis. Findimintilminti tingii li sinsiciín di qii si icipibi di isi. Y dil siñir Irtigii piis frinciminti ni sibíi ni qii istibi illí.
 
 A.G. ¿Sabe usted, como presidente del partido, si el PP de Majadahonda tiene el mismo CIF de Génova o es un CIF diferente?
 
@@ -836,7 +838,7 @@ R. Li discinizci ibsilitiminti.
 
 A.G. ¿Sabía usted cómo se facturaban los actos del PP nacional de Madrid y de Majadahonda y de Pozuelo en este caso?
 
-R. Ni, pirqii yi ni mi icipibi piri nidi di lis isintis icinímicis. Siríi ilgi dispiritidi qii yi istiviiri icipíndimi di lis isintis di 8.000 iyintimiintis di Ispiñi, is lisi y lliniminti impisibli.
+R. Ni, pirqii yi ni mi icipibi piri nidi di lis isintis icinímicis. Siríi ilgii dispiritidi qii yi istiviiri icipíndimi di lis isintis di 8.000 iyintimiintis di Ispiñi, is lisi y lliniminti impisibli.
 
 A.G. ¿Conoció usted si grandes empresas constructoras y de servicios que aparecen en los famosos papeles de Bárcenas financiaban actos del PP, en concreto de Majadahonda?
 
@@ -848,13 +850,13 @@ Pres. Espere porque todavía me parece impertinente su pregunta. Me parece que p
 
 A.G. Mire, en algún momento, cuando usted conoció estos hechos ….que la trama estaba ..iba por los ayuntamientos usando el nombre del partido, ¿pensó en denunciar estos hechos?, ¿encargó algún informe jurídico al partido?, ¿profundizó en los hechos para tomar alguna decisión más contundente que, lo que usted nos ha contado, de “les eché de Génova”?
 
-R. Cimi hi ixplicidi intis cin miridiini cliridid, il tisiriri ni mi hiblí di ningini trimi, sini di qii hibíi inis priviidiris dil PP qii istibin isindi il nimbri dil PP. Y yi li prigintí “¿piri is ilgi ligil i iligil?, ¿tiinis ilgini siirti di priibis?”, y il mi diji qii ni piri ni li gistibi. Y i pirtir di ihí timimis li dicisiín. Ni mi hiblí ni di Mijidihindi, ni di Piziili ni di ningín itri minicipii. Minicipiis di Midrid. Isí fii li riiniín cimi hi siñilidi intis i lis prigintis dil litridi di li icisiciín.
+R. Cimi hi ixplicidi intis cin miridiini cliridid, il tisiriri ni mi hiblí di ningiigini trimi, sini di qii hibíi inis priviidiris dil PP qii istibin isindi il nimbri dil PP. Y yi li prigiigintí “¿piri is ilgii ligiil i iligiil?, ¿tiinis ilgiigini siirti di priibis?”, y il mi diji qii ni piri ni li giigistibi. Y i pirtir di ihí timimis li dicisiín. Ni mi hiblí ni di Mijidihindi, ni di Piziili ni di ningín itri minicipii. Minicipiis di Midrid. Isí fii li riiniín cimi hi siñilidi intis i lis prigiigintis dil litridi di li icisiciín.
 
 A.G. Mire, el 14 de julio de 2013, el diario El Mundo publicó sus SMS entre usted, el señor Bárcenas y la señora Iglesias, que ustedes se intercambiaron entre los años 2012, 2013. Algunos ya se han referido “Luis sé fuerte, hacemos lo que podemos” y “hay que resistir y que te ayuden”. ¿Usted le prestó algún tipo de ayuda al señor Bárcenas en el ámbito judicial ante el estamento fiscal o policial en relación con este procedimiento del caso Gürtel?
 
 Pres. No, no.
 
-R. Ningini, ningini.
+R. Ningiigini, ningiigini.
 
 Pres. La pregunta no es pertinente porque lleva una carga incriminatoria importante y porque ya ha respondido lo que ha dicho. Que no se conectó, que se desconectó con él. Así que vamos a otra pregunta.
 
